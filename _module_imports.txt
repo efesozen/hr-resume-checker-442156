@@ -1,0 +1,9 @@
+// AUTO-GENERATED MODULES - Add these to app.module.ts imports array
+import { ResumesModule } from './modules/resumes/resumes.module';
+import { AnalysisreportsModule } from './modules/analysisreports/analysisreports.module';
+import { SubscriptionsModule } from './modules/subscriptions/subscriptions.module';
+
+// Add to @Module imports array:
+// ResumesModule,
+// AnalysisreportsModule,
+// SubscriptionsModule
